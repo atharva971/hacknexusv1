@@ -1,0 +1,18 @@
+{
+  "name": "smart-city-planner",
+  "version": "1.0.0",
+  "description": "AI-powered smart city planning visualization system",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "chart.js": "^4.4.1",
+    "lucide": "^0.294.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.10"
+  }
+}
